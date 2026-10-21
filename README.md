@@ -69,6 +69,8 @@
     <a href="https://github.com/johnknevescarrijo"><img src="https://img.shields.io/badge/GitHub-johnknevescarrijo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     &nbsp;
     <a href="https://github.com/johnknevescarrijo/Noema-JEPAv1"><img src="https://img.shields.io/badge/World_Model-Noema--JEPA_v1-38BDF8?style=for-the-badge&logo=pytorch&logoColor=white" alt="Noema-JEPA v1" /></a>
+    &nbsp;
+    <a href="https://github.com/johnknevescarrijo/CyberRott1.0"><img src="https://img.shields.io/badge/Cybersecurity_SLM-CyberRott_1.0-792ee5?style=for-the-badge&logo=huggingface&logoColor=white" alt="CyberRott 1.0" /></a>
   </p>
 
 </div>
@@ -151,20 +153,20 @@ I am an AI researcher & robotics developer dedicated to building **embodied inte
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🦾 Embodied-Policy-Lab <i>(WIP)</i></h3>
+      <h3 align="center">🛡️ CyberRott 1.0</h3>
       <p align="center">
-        <strong>Diffusion Policy & Sim-to-Real Benchmark</strong>
+        <strong>Reasoning-Driven Cybersecurity SLM (3.82B Parameters)</strong>
       </p>
       <p align="center">
-        End-to-end framework for robotic manipulation in Isaac Sim and real hardware (Franka / UR5 / AgileX), integrating camera observation, force feedback, and latent world model rollouts.
+        Domain-specialized SLM built on <strong>Phi-4-mini</strong> with a 7-stage latent Chain-of-Thought (<code>&lt;think&gt;</code>) engine for vulnerability analysis, taint tracking & exploit mitigation. Validated on <strong>WMDP-Cyber</strong>.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Isaac_Sim-NVIDIA-76B900?logo=nvidia&logoColor=white" />
-        <img src="https://img.shields.io/badge/ROS2-Humble-22314E?logo=ros&logoColor=white" />
-        <img src="https://img.shields.io/badge/Diffusion-Policy-purple" />
+        <img src="https://img.shields.io/badge/Hugging_Face-Hub-FFD21E?logo=huggingface&logoColor=black" />
+        <img src="https://img.shields.io/badge/Ollama-Ready-blue" />
+        <img src="https://img.shields.io/badge/Params-3.82B-purple" />
       </p>
       <p align="center">
-        <a href="#"><strong>View Repository ➔</strong></a>
+        <a href="https://github.com/johnknevescarrijo/CyberRott1.0"><strong>View Repository ➔</strong></a>
       </p>
     </td>
   </tr>
