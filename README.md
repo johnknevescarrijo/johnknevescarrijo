@@ -72,6 +72,8 @@
     <a href="https://github.com/johnknevescarrijo/Noema-JEPAv1"><img src="https://img.shields.io/badge/World_Model-Noema--JEPA_v1-38BDF8?style=for-the-badge&logo=pytorch&logoColor=white" alt="Noema-JEPA v1" /></a>
     &nbsp;
     <a href="https://github.com/johnknevescarrijo/CyberRott"><img src="https://img.shields.io/badge/Cybersecurity_SLM-CyberRott-792ee5?style=for-the-badge&logo=huggingface&logoColor=white" alt="CyberRott" /></a>
+    &nbsp;
+    <a href="https://github.com/johnknevescarrijo/SpikeVision-S3"><img src="https://img.shields.io/badge/Neuromorphic_AI-SpikeVision--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="SpikeVision-S3" /></a>
   </p>
 
 </div>
@@ -171,6 +173,27 @@ I am an independent AI researcher and developer dedicated to exploring the conve
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ SpikeVision-S3</h3>
+      <p align="center">
+        <strong>Neuromorphic Edge Vision SNN (~15.6K Parameters)</strong>
+      </p>
+      <p align="center">
+        Bare-metal C++ <strong>Spiking Neural Network (SNN)</strong> inference engine executing event-driven Leaky Integrate-and-Fire (LIF) dynamics on the <strong>ESP32-S3</strong> (Xtensa LX7 @ 240 MHz). Features Int8 quantization, ~80% synaptic sparsity, 81.2% hardware workload reduction (SOP vs MAC), and 100% bit-exact parity with PyTorch/snnTorch.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/ESP--IDF-v5.x-E7352C?logo=espressif&logoColor=white" />
+        <img src="https://img.shields.io/badge/snnTorch-LIF-blue" />
+        <img src="https://img.shields.io/badge/Params-15.6K-green" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/johnknevescarrijo/SpikeVision-S3"><strong>View Repository ➔</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
 
 ---
@@ -181,9 +204,9 @@ I am an independent AI researcher and developer dedicated to exploring the conve
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Deep Learning & Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) |
+| **Deep Learning & Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![snnTorch](https://img.shields.io/badge/snnTorch-007ACC?style=flat-square) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) |
 | **Robotics & Physical Sim** | ![MuJoCo](https://img.shields.io/badge/MuJoCo-333333?style=flat-square) ![Gymnasium](https://img.shields.io/badge/Gymnasium-228B22?style=flat-square) |
-| **Languages & Systems** | ![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Languages & Systems** | ![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++_17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 </div>
 
