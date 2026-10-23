@@ -71,7 +71,7 @@
     &nbsp;
     <a href="https://github.com/johnknevescarrijo/Noema-JEPAv1"><img src="https://img.shields.io/badge/World_Model-Noema--JEPA_v1-38BDF8?style=for-the-badge&logo=pytorch&logoColor=white" alt="Noema-JEPA v1" /></a>
     &nbsp;
-    <a href="https://github.com/johnknevescarrijo/CyberRott1.0"><img src="https://img.shields.io/badge/Cybersecurity_SLM-CyberRott_1.0-792ee5?style=for-the-badge&logo=huggingface&logoColor=white" alt="CyberRott 1.0" /></a>
+    <a href="https://github.com/johnknevescarrijo/CyberRott"><img src="https://img.shields.io/badge/Cybersecurity_SLM-CyberRott-792ee5?style=for-the-badge&logo=huggingface&logoColor=white" alt="CyberRott" /></a>
   </p>
 
 </div>
@@ -154,7 +154,7 @@ I am an independent AI researcher and developer dedicated to exploring the conve
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ CyberRott 1.0</h3>
+      <h3 align="center">🛡️ CyberRott</h3>
       <p align="center">
         <strong>Reasoning-Driven Cybersecurity SLM (3.82B Parameters)</strong>
       </p>
@@ -167,7 +167,7 @@ I am an independent AI researcher and developer dedicated to exploring the conve
         <img src="https://img.shields.io/badge/Params-3.82B-purple" />
       </p>
       <p align="center">
-        <a href="https://github.com/johnknevescarrijo/CyberRott1.0"><strong>View Repository ➔</strong></a>
+        <a href="https://github.com/johnknevescarrijo/CyberRott"><strong>View Repository ➔</strong></a>
       </p>
     </td>
   </tr>
