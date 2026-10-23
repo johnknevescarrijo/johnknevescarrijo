@@ -36,8 +36,8 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠠⣫⣵⣾⣿⣿⣿⣿⣤⣁⠍⣿⣿⣿⣿⢣⣿⡇⠀⠈⠀⠀⠈⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠾⠛⠛⠛⠫⣉⠉⠛⢿⣿⣦⣌⠉⠹⣿⠌⢻⣿⠀⠀⠀⠀⠀⢠⢂⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠠⢄⡀⠈⠀⠀⠈⠙⢿⣿⣦⣹⡞⣸⣿⠀⠀⠀⠀⣀⠁⠌⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⠀⢻⣿⣿⣿⣿⣿⣽⣿⣿⣿⣿⡄⠠⠀⠀⠀⠀⠀⠀⠀⠈⠣⡻⣿⡇⠈⣇⠀⠀⠀⠀⠁⢰⠂⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠂⢆⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠉⠘⢇⠀⢸⠀⠀⠀⠀⢠⠃⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⠀⢻⣿⣿⣿⣿⣽⣿⣿⣿⣿⡄⠠⠀⠀⠀⠀⠀⠀⠀⠈⠣⡻⣿⡇⠈⣇⠀⠀⠀⠀⠁⢰⠂⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠂⢆⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠉⠘⢇⠀⢸⠀⠀⠀⠀⢠⠃⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠧⠀⠀⠸⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠊⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⡹⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂⠀⠀⢀⡂⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⡄⠀⠠⠀⢗⠙⢿⣿⣿⣿⣿⣿⣶⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠊⠀⠀⠀⠀⠀⠀⠀⠀
@@ -50,12 +50,13 @@
   <!-- Typing SVG Dynamic Header -->
   <p align="center" style="margin-bottom: 15px;">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Hi%2C+I'm+John+Kennedy+%F0%9F%91%8B;Building+World+Models+%26+Robotic+Learning+Systems;Researching+Embodied+AI%2C+Autonomous+Agents+%26+JEPA" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=780&height=100&lines=Hi%2C+I'm+John+Kennedy+%F0%9F%91%8B;Building+World+Models+%26+Robotic+Learning+Representations;Researching+Embodied+AI%2C+Autonomous+Agents+%26+Local+SLMs" alt="Typing SVG" />
     </a>
   </p>
 
   <p align="center" style="font-size: 16px; margin-bottom: 20px;">
-    <strong>Robotics Engineer & AI Researcher</strong> focused on perception, predictive world representations, and physical agency.
+    <strong>AI & Robotics Researcher | Open-Source Builder</strong><br />
+    Focused on <strong>World Models</strong>, <strong>Robotic Learning</strong>, <strong>Autonomous Agents</strong>, and <strong>Local Open-Source AI</strong>.
   </p>
 
   <br />
@@ -79,12 +80,12 @@
 
 ### 🧠 About Me & Research Mission
 
-I am an AI researcher & robotics developer dedicated to building **embodied intelligent systems** that can perceive, predict, and physically interact with the real world. My work investigates predictive cognitive architectures, object-centric causal dynamics, and autonomous reasoning agents:
+I am an independent AI researcher and developer dedicated to exploring the convergence of **world representations**, **physical dynamics**, and **autonomous agency**. My work focuses on building transparent, open-source systems that understand and interact with environments:
 
-- 🌐 **World Models & Self-Supervised Learning:** Designing object-centric predictive latent representations (JEPAs, Slot Attention, C-JEPA, VICReg) to forecast physical causality without pixel hallucinations.
-- 🦾 **Robotic Learning & Manipulation:** Training reactive and long-horizon policies via Imitation Learning, Diffusion Policies, Reinforcement Learning, and Vision-Language-Action (VLA) foundations.
-- 🤖 **Autonomous Cognitive Agents:** Integrating cognitive reasoning loops, spatial memory, and physical affordances into autonomous robotic architectures.
-- ⚡ **High-Efficiency AI Deployment:** Scaling simulation-to-real transfer with accelerated inference engines (vLLM, TensorRT, Isaac Sim/Lab).
+- 🌐 **World Models & Self-Supervised Learning:** Designing object-centric predictive representations (JEPAs, Slot Attention, C-JEPA, VICReg) to forecast physical causality and scene dynamics in latent space without pixel hallucinations.
+- 🦾 **Robotic Learning & Simulation:** Experimenting with contact dynamics and physical interaction inside **MuJoCo**, studying how latent representations can guide motor control and action policies.
+- 🤖 **Autonomous Agents & Reasoning:** Building cognitive execution loops that integrate latent environment understanding, multi-step structured reasoning (`<think>`), and tool use.
+- 🦙 **Local & Open-Source AI:** Fine-tuning and deploying compact Small Language Models (SLMs) running fully on-device via **Ollama**, **PyTorch**, and **Hugging Face**.
 
 ---
 
@@ -93,19 +94,19 @@ I am an AI researcher & robotics developer dedicated to building **embodied inte
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 World Models & Predictive AI</h4>
+      <h4>🌐 World Models & Representations</h4>
       <ul>
-        <li><strong>Joint Embedding Predictive Architectures (JEPA):</strong> Latent state forecasting (I-JEPA, V-JEPA, C-JEPA).</li>
-        <li><strong>Object-Centric Representations:</strong> Slot Attention, physical entity decomposition & causal interaction graphs.</li>
-        <li><strong>Self-Supervised Regularization:</strong> Non-contrastive collapse avoidance (VICReg, SimCLR, BarLow Twins).</li>
+        <li><strong>JEPA Architectures:</strong> Latent state forecasting (I-JEPA, C-JEPA) for forward physical dynamics.</li>
+        <li><strong>Object Decomposition:</strong> Slot Attention and unsupervised physical entity extraction.</li>
+        <li><strong>Non-Contrastive Learning:</strong> Collapse avoidance and variance regularization with VICReg.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🦾 Robotic Learning & Embodiment</h4>
+      <h4>🦾 Robotic Learning & Physics</h4>
       <ul>
-        <li><strong>Policy Learning:</strong> Diffusion Policies, Behavioral Cloning (BC-Z, ACT), Reinforcement Learning (SAC, PPO).</li>
-        <li><strong>Sim-to-Real Transfer:</strong> Domain randomization, contact physics simulation & sensory noise modeling.</li>
-        <li><strong>Embodied VLM/VLA:</strong> Open-vocabulary semantic grounding, spatial affordance prompting.</li>
+        <li><strong>Physics Simulation:</strong> Dynamic contact simulation and kinematic exploration in <strong>MuJoCo</strong>.</li>
+        <li><strong>Policy Foundations:</strong> Studying imitation learning and world model state conditioning for control.</li>
+        <li><strong>Physical Grounding:</strong> Linking predictive visual representations to actuator spaces and collisions.</li>
       </ul>
     </td>
   </tr>
@@ -113,17 +114,17 @@ I am an AI researcher & robotics developer dedicated to building **embodied inte
     <td width="50%" valign="top">
       <h4>🤖 Autonomous Cognitive Agents</h4>
       <ul>
-        <li><strong>Closed-Loop Agency:</strong> Perception ➔ Latent World Model ➔ Hierarchical Planning ➔ Motor Control.</li>
-        <li><strong>Agentic Reasoning & Tooling:</strong> Self-improving skill acquisition, recursive reasoning & persistent memory loops.</li>
-        <li><strong>Spatial & Episodic Memory:</strong> 3D Scene Graphs, topological maps & semantic vector retrieval.</li>
+        <li><strong>Closed-Loop Agency:</strong> Perception ➔ Latent World Model ➔ Reasoning ➔ Action Execution.</li>
+        <li><strong>Structured CoT Reasoning:</strong> Explicit multi-stage planning loops for verifiable decision making.</li>
+        <li><strong>Tool Interaction:</strong> Grounded agentic workflows with persistent context and memory.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>⚡ High-Performance Systems & Sim</h4>
+      <h4>🦙 Local AI & Open-Source SLMs</h4>
       <ul>
-        <li><strong>Robotics Simulation:</strong> NVIDIA Isaac Sim / Isaac Lab, MuJoCo, PyBullet, Gazebo.</li>
-        <li><strong>Edge & Real-Time Robotics:</strong> ROS 2, Jetson Orin, Micro-ROS, low-latency CUDA streaming.</li>
-        <li><strong>Fast Inference & VLM:</strong> vLLM, PagedAttention, TensorRT, FlashAttention-2.</li>
+        <li><strong>SLM Specialization:</strong> Domain fine-tuning focused on high-efficiency, constrained compute.</li>
+        <li><strong>Local Inference:</strong> Rapid on-device execution with <strong>Ollama</strong> and <strong>Hugging Face</strong>.</li>
+        <li><strong>Evaluation & Alignment:</strong> Validating safety and reasoning on specialized benchmarks (e.g., WMDP-Cyber).</li>
       </ul>
     </td>
   </tr>
@@ -135,30 +136,30 @@ I am an AI researcher & robotics developer dedicated to building **embodied inte
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🌟 Noema-JEPA v1</h3>
       <p align="center">
         <strong>Object-Centric World Model (~15M Parameters)</strong>
       </p>
       <p align="center">
-        Unifying <strong>C-JEPA</strong> (Object Masking, Slot Attention, VICReg) with frozen VLM semantic guidance (<strong>ThinkJEPA</strong>) via zero-init residual FiLM and a real-time Variance Watchdog against representation collapse.
+        An experimental architecture unifying <strong>C-JEPA</strong> (Object Masking, Slot Attention, and VICReg loss) with semantic conditioning via <strong>zero-init residual FiLM</strong> and a real-time variance watchdog against representation collapse.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/vLLM-Ready-blue" />
+        <img src="https://img.shields.io/badge/MuJoCo-Compatible-333333" />
         <img src="https://img.shields.io/badge/Params-15.0M-green" />
       </p>
       <p align="center">
         <a href="https://github.com/johnknevescarrijo/Noema-JEPAv1"><strong>View Repository ➔</strong></a>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🛡️ CyberRott 1.0</h3>
       <p align="center">
         <strong>Reasoning-Driven Cybersecurity SLM (3.82B Parameters)</strong>
       </p>
       <p align="center">
-        Domain-specialized SLM built on <strong>Phi-4-mini</strong> with a 7-stage latent Chain-of-Thought (<code>&lt;think&gt;</code>) engine for vulnerability analysis, taint tracking & exploit mitigation. Validated on <strong>WMDP-Cyber</strong>.
+        Domain-specialized language model based on <strong>Phi-4-mini</strong> with a 7-stage latent Chain-of-Thought (<code>&lt;think&gt;</code>) engine for vulnerability analysis, taint tracking, and exploit mitigation. Validated on <strong>WMDP-Cyber</strong>.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Hugging_Face-Hub-FFD21E?logo=huggingface&logoColor=black" />
@@ -174,16 +175,15 @@ I am an AI researcher & robotics developer dedicated to building **embodied inte
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Active Tech Stack & Tools
 
 <div align="center">
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Deep Learning & Foundations** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![JAX](https://img.shields.io/badge/JAX-008080?style=flat-square) ![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![vLLM](https://img.shields.io/badge/vLLM-0284C7?style=flat-square) |
-| **Robotics & Physical Sim** | ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white) ![Isaac Sim](https://img.shields.io/badge/NVIDIA_Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white) ![MuJoCo](https://img.shields.io/badge/MuJoCo-333333?style=flat-square) ![Gazebo](https://img.shields.io/badge/Gazebo-F55?style=flat-square) |
-| **Languages & Systems** | ![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) |
-| **Compute & Acceleration** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black) |
+| **Deep Learning & Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) |
+| **Robotics & Physical Sim** | ![MuJoCo](https://img.shields.io/badge/MuJoCo-333333?style=flat-square) ![Gymnasium](https://img.shields.io/badge/Gymnasium-228B22?style=flat-square) |
+| **Languages & Systems** | ![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 </div>
 
