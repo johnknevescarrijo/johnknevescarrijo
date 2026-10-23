@@ -50,7 +50,7 @@
   <!-- Typing SVG Dynamic Header -->
   <p align="center" style="margin-bottom: 15px;">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=780&height=100&lines=Hi%2C+I'm+John+Kennedy+%F0%9F%91%8B;Building+World+Models+%26+Robotic+Learning+Representations;Researching+Embodied+AI%2C+Autonomous+Agents+%26+Local+SLMs" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hi%2C+I'm+John+Kennedy+%F0%9F%91%8B;Building+World+Models+%26+Robotic+Learning+Representations;Researching+Embodied+AI%2C+Autonomous+Agents+%26+Local+SLMs" alt="Typing SVG" />
     </a>
   </p>
 
