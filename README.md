@@ -63,11 +63,13 @@
 
   <!-- Connect & Social Badges -->
   <p align="center" style="margin-bottom: 20px;">
+    <a href="https://github.com/johnknevescarrijo"><img src="https://img.shields.io/badge/GitHub-johnknevescarrijo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    &nbsp;
+    <a href="https://huggingface.co/johnknevescarrijo"><img src="https://img.shields.io/badge/Hugging%20Face-johnknevescarrijo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" alt="Hugging Face" /></a>
+    &nbsp;
     <a href="https://www.linkedin.com/in/john-kennedy-neves-carrijo-7997a0308/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     &nbsp;
     <a href="mailto:johncarrijo2255@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    &nbsp;
-    <a href="https://github.com/johnknevescarrijo"><img src="https://img.shields.io/badge/GitHub-johnknevescarrijo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     &nbsp;
     <a href="https://github.com/johnknevescarrijo/Noema-JEPAv1"><img src="https://img.shields.io/badge/World_Model-Noema--JEPA_v1-38BDF8?style=for-the-badge&logo=pytorch&logoColor=white" alt="Noema-JEPA v1" /></a>
     &nbsp;
