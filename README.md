@@ -76,6 +76,8 @@
     <a href="https://github.com/johnknevescarrijo/CyberRott"><img src="https://img.shields.io/badge/Cybersecurity_SLM-CyberRott-792ee5?style=for-the-badge&logo=huggingface&logoColor=white" alt="CyberRott" /></a>
     &nbsp;
     <a href="https://github.com/johnknevescarrijo/SpikeVision-S3"><img src="https://img.shields.io/badge/Neuromorphic_AI-SpikeVision--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="SpikeVision-S3" /></a>
+    &nbsp;
+    <a href="https://github.com/johnknevescarrijo/kestrel"><img src="https://img.shields.io/badge/Inference_Engine-Kestrel-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Kestrel" /></a>
   </p>
 
 </div>
@@ -194,6 +196,21 @@ I am an independent AI researcher and developer dedicated to exploring the conve
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">🦅 Kestrel</h3>
+      <p align="center">
+        <strong>Agent-Native Local LLM Inference Engine in Rust</strong>
+      </p>
+      <p align="center">
+        High-performance local LLM engine designed around the principle <em>Session &gt; Request</em>. Features <strong>persistent KV cache</strong> with prefix reuse, automated <strong>3-tier memory management</strong> (Hot VRAM ➔ Warm RAM ➔ Cold Disk via <code>bincode</code>), resilient <strong>tool calling with JSON Schema validation and self-correcting retry loops</strong>, continuous batching (~9.4x throughput), and an OpenAI-compatible HTTP API.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Rust-2021-DEA584?logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/llama.cpp-GGUF-blue" />
+        <img src="https://img.shields.io/badge/API-OpenAI--Compatible-green" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/johnknevescarrijo/kestrel"><strong>View Repository ➔</strong></a>
+      </p>
     </td>
   </tr>
 </table>
@@ -208,7 +225,7 @@ I am an independent AI researcher and developer dedicated to exploring the conve
 | :--- | :--- |
 | **Deep Learning & Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![snnTorch](https://img.shields.io/badge/snnTorch-007ACC?style=flat-square) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) |
 | **Robotics & Physical Sim** | ![MuJoCo](https://img.shields.io/badge/MuJoCo-333333?style=flat-square) ![Gymnasium](https://img.shields.io/badge/Gymnasium-228B22?style=flat-square) |
-| **Languages & Systems** | ![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++_17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Languages & Systems** | ![Rust](https://img.shields.io/badge/Rust_2021-DEA584?style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++_17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 </div>
 
