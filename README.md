@@ -234,12 +234,12 @@ I am an independent AI researcher and developer dedicated to exploring the conve
 ### 📊 GitHub Telemetry & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnknevescarrijo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnknevescarrijo&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=johnknevescarrijo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=johnknevescarrijo&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnknevescarrijo&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=johnknevescarrijo&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
