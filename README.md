@@ -38,6 +38,8 @@
     <a href="https://github.com/johnknevescarrijo/SpikeVision-S3"><img src="https://img.shields.io/badge/Neuromorphic_AI-SpikeVision--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="SpikeVision-S3" /></a>
     &nbsp;
     <a href="https://github.com/johnknevescarrijo/kestrel"><img src="https://img.shields.io/badge/Inference_Engine-Kestrel-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Kestrel" /></a>
+    &nbsp;
+    <a href="https://github.com/johnknevescarrijo/mujoco-space-manipulator"><img src="https://img.shields.io/badge/Space_Robotics-MuJoCo_Manipulator-F97316?style=for-the-badge&logo=python&logoColor=white" alt="MuJoCo Space Manipulator" /></a>
   </p>
 
 </div>
@@ -173,6 +175,25 @@ I am an independent AI researcher and developer dedicated to exploring the conve
       </p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🛰️ MuJoCo Space Manipulator</h3>
+      <p align="center">
+        <strong>6-DoF Free-Floating &amp; Free-Flying Orbital Robotic Manipulator Simulation</strong>
+      </p>
+      <p align="center">
+        Zero-gravity (<code>0g</code>, RK4) physics simulation of a 45 kg servicing spacecraft equipped with a 3-DoF robotic arm capturing an orbital target. Implements exact dynamic coupling via the <strong>Generalized Jacobian Matrix (GJM)</strong> with Damped Least Squares (DLS) control, 6-DoF quaternion RCS station-keeping, momentum conservation telemetry, and 13 parametric <strong>FreeCAD</strong>/STL aerospace meshes.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MuJoCo-3.x-orange" />
+        <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FreeCAD-STL_CAD-CB333B?logo=freecad&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/johnknevescarrijo/mujoco-space-manipulator"><strong>View Repository ➔</strong></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -184,7 +205,7 @@ I am an independent AI researcher and developer dedicated to exploring the conve
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
 | **Deep Learning & Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![snnTorch](https://img.shields.io/badge/snnTorch-007ACC?style=flat-square) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) |
-| **Robotics & Physical Sim** | ![MuJoCo](https://img.shields.io/badge/MuJoCo-333333?style=flat-square) ![Gymnasium](https://img.shields.io/badge/Gymnasium-228B22?style=flat-square) |
+| **Robotics & Physical Sim** | ![MuJoCo](https://img.shields.io/badge/MuJoCo-333333?style=flat-square) ![Gymnasium](https://img.shields.io/badge/Gymnasium-228B22?style=flat-square) ![FreeCAD](https://img.shields.io/badge/FreeCAD-CB333B?style=flat-square&logo=freecad&logoColor=white) |
 | **Languages & Systems** | ![Rust](https://img.shields.io/badge/Rust_2021-DEA584?style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++_17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 </div>
